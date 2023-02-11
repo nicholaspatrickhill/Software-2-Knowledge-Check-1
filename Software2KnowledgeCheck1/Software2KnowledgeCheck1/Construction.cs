@@ -8,8 +8,6 @@ namespace Software2KnowledgeCheck1
 {
     internal class Construction
     {
-        public List<Building> Buildings { get; } = new List<Building>();
-
         //public void CreateApartment(Apartment apartment)
         //{
         //    // Get materials
